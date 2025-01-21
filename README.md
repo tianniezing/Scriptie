@@ -1,4 +1,4 @@
-# Scriptie Number-oriented text steganography for Dutch financial articles
+# Thesis: Number-oriented text steganography for Dutch financial articles
 This repository contains a Python-based implementation for embedding secret messages in text using a steganographic approach. The project focuses on comparing two methods: modifying existing financial articles and generating fake financial articles using ChatGPT.
 
 ## Features
